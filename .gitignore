@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 python/.vscode/
 python/.ipynb_checkpoints/
 python/Readme.ipynb
+=======
+python/.vscode
+python/.ipynb_checkpoints
+Readme.ipynb
+>>>>>>> 84caa51986185863749659bca2bbcec1a54c87db
